@@ -114,6 +114,12 @@ article p {
   line-height: 36px;
 }
 
+@media (min-width: 1200px) {
+    .about {
+    background-image: url('img/duotone-4.jpg');
+    }
+}
+
 @media (min-width: 992px) and (max-width: 1200px) {
 
   .about {
