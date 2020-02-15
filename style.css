@@ -119,6 +119,9 @@ article p {
     background-image: url('img/duotone-4.jpg');
     height: auto;
     }
+    article p {
+      font-size: 30px;
+    }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
