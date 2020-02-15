@@ -117,10 +117,11 @@ article p {
 @media (min-width: 1200px) and (max-width: 1920px) {
     .about {
     background-image: url('img/duotone-4.jpg');
+    height: auto;
     }
 }
 
-@media (min-width: 992px) and (max-width: 1200px) {
+@media (min-width: 992px) and (max-width: 1199px) {
 
   .about {
     height: auto;
